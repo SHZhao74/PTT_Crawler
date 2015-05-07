@@ -1,2 +1,8 @@
 # PTT_Crawler
-"sudo apt-get install python-bs4" on Ubuntu
+
+***Initalization***
+Ubuntu:
+  sudo apt-get install python-pip
+  sudo pip install requests
+  sudo apt-get install python-bs4
+  
