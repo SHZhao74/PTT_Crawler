@@ -45,8 +45,8 @@ def craw():
 		else :
 			pass
 
-
-while 1:
-	craw()
-	print 'Sleep 5 min'
-	time.sleep(60*5)
+def startToCrawl():
+	while 1:
+		craw()
+		print 'Sleep 5 min'
+		time.sleep(60*5)
