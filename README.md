@@ -1,7 +1,7 @@
 # PTT_Crawler
 
 ***Initalization***
-Ubuntu:
+##Ubuntu:
 ```
   sudo apt-get install python-pip
   sudo pip install requests
